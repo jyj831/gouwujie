@@ -63,6 +63,7 @@
     width: 100%;
     position: fixed;
     bottom: 0;
+    z-index: 9;
     display: flex;
     justify-content: space-around;
     background: #f6f6f6;

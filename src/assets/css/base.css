@@ -6,7 +6,7 @@
   /*--color-text是定义变量，如背景色啊导航栏*/
   /*color: var(--color-text);这是使用方法*/
   --high-light:#ff5777;
-  --high-tint:#ff8189; /*整体背景颜色，导航等位置的*/
+  --color-tint:#ff8189; /*整体背景颜色，导航等位置的*/
   --color-background:#fff;
   --font-size:14px;
   --line-height:1.5;
